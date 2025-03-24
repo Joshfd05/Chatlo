@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "217989058560",
+    "project_id": "chatlo-4c18f",
+    "storage_bucket": "chatlo-4c18f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217989058560:android:92805ec481d342ed6808e5",
+        "android_client_info": {
+          "package_name": "com.example.chatlo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp1vPtrFj8L_gqaUUwjDP6nxDsFnfc8Bc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
